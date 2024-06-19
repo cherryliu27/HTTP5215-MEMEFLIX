@@ -19,9 +19,13 @@ var videoLinks = {
       link: "https://www.youtube.com/embed/68ugkg9RePc?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=33&rel=0&playlist=68ugkg9RePc",
     },
     {
-      song: "Bitch Lasagna - Pewdiepie",
-      link: "https://www.youtube.com/embed/6Dh-RL__uN4?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=6Dh-RL__uN4",
+      song: "Barbie Girl",
+      link: "https://www.youtube.com/embed/ZyhrYis509A?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=9&rel=0&playlist=ZyhrYis509A",
     },
+    // {
+    //   song: "Bitch Lasagna - Pewdiepie",
+    //   link: "https://www.youtube.com/embed/6Dh-RL__uN4?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=6Dh-RL__uN4",
+    // },
     {
       song: "Best Cry Ever",
       link: "https://www.youtube.com/embed/ee925OTFBCA?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=ee925OTFBCA",
@@ -44,7 +48,7 @@ var videoLinks = {
     },
     {
       song: "Dame Tu Cosita - El Chombo",
-      link: "https://www.youtube.com/embed/FzG4uDgje3M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=3&rel=0&playlist=FzG4uDgje3M",
+      link: "https://www.youtube.com/embed/FzG4uDgje3M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=2&rel=0&playlist=FzG4uDgje3M",
     },
     {
       song: "Dramatic Chipmunk",
@@ -141,8 +145,8 @@ var videoLinks = {
       link: "https://www.youtube.com/embed/X2WH8mHJnhM?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=17&rel=0&playlist=X2WH8mHJnhM",
     },
     {
-      song: "Mysterious Ticking Noise - Potter Puppet Pals",
-      link: "https://www.youtube.com/embed/Tx1XIm6q4r4?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=30&rel=0&playlist=Tx1XIm6q4r4",
+      song: "Move B*tch - Disturbing Tha Peace and Ludacris",
+      link: "https://www.youtube.com/embed/WY-3J9f60pw?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=9&rel=0&playlist=WY-3J9f60pw",
     },
   ],
   N: [
@@ -183,14 +187,22 @@ var videoLinks = {
       link: "https://www.youtube.com/embed/uKxyLmbOc0Q?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=uKxyLmbOc0Q",
     },
     {
-      song: "Ridin - Chamillionaire",
-      link: "https://www.youtube.com/embed/u-AmHSX6bVE?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=u-AmHSX6bVE",
+      song: "Ridin (Luigi Ridin Dirty in Mario Kart 8)",
+      link: "https://www.youtube.com/embed/PpxDuNFBVj8?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=5&rel=0&playlist=PpxDuNFBVj8",
     },
+    // {
+    //   song: "Ridin - Chamillionaire",
+    //   link: "https://www.youtube.com/embed/u-AmHSX6bVE?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=u-AmHSX6bVE",
+    // },
   ],
   S: [
     {
       song: "Spongebob Squarepants Theme Song",
       link: "https://www.youtube.com/embed/r9L4AseD-aA?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=r9L4AseD-aA",
+    },
+    {
+      song: "Smoke Weed Everyday (The Next Episode) - Dr.DRE (Feat Snoop Dog)",
+      link: "https://www.youtube.com/embed/5QCaaAyz-yA?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=5QCaaAyz-yA",
     },
   ],
   T: [
@@ -230,12 +242,16 @@ var videoLinks = {
   Y: [
     {
       song: "Yakety Sax - Boots Randolph",
-      link: "https://www.youtube.com/embed/Zcq_xLi2NGo?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=3&rel=0&playlist=Zcq_xLi2NGo",
+      link: "https://www.youtube.com/embed/LUYbu5DJA1U?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=65&rel=0&playlist=LUYbu5DJA1U",
     },
     {
-      song: "Yee",
-      link: "https://www.youtube.com/embed/q6EoRBvdVPQ?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=3&rel=0&playlist=q6EoRBvdVPQ",
+      song: "YOU SO FN PRECIOUS WHEN YOU SMILE (Mine) - Bazzi",
+      link: "https://www.youtube.com/embed/ee21xAWnBMg?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=ee21xAWnBMg",
     },
+    // {
+    //   song: "Yee",
+    //   link: "https://www.youtube.com/embed/q6EoRBvdVPQ?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=3&rel=0&playlist=q6EoRBvdVPQ",
+    // },
   ],
   Z: [
     {
