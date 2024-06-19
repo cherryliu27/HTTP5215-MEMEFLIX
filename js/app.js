@@ -120,7 +120,7 @@ var videoLinks = {
     },
     {
       song: "Lion Sleeps Tonight - Pat & Stanley",
-      link: "https://www.youtube.com/embed/399syDv0bBM?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=5&rel=0&playlist=399syDv0bBM",
+      link: "https://www.youtube.com/embed/399syDv0bBM?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=4&rel=0&playlist=399syDv0bBM",
     },
   ],
   M: [
