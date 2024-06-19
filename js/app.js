@@ -116,7 +116,7 @@ var videoLinks = {
   L: [
     {
       song: "Levan Polkka - Hatsune Miku",
-      link: "https://www.youtube.com/embed/tlXSMrGWK9M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=tlXSMrGWK9M",
+      link: "https://www.youtube.com/embed/tlXSMrGWK9M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=12&rel=0&playlist=tlXSMrGWK9M",
     },
     {
       song: "Lion Sleeps Tonight - Pat & Stanley",
