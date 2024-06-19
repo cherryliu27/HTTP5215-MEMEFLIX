@@ -19,7 +19,7 @@ var videoLinks = {
       link: "https://www.youtube.com/embed/68ugkg9RePc?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=33&rel=0&playlist=68ugkg9RePc",
     },
     {
-      song: "Barbie Girl",
+      song: "Barbie Girl - Aqua",
       link: "https://www.youtube.com/embed/ZyhrYis509A?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=9&rel=0&playlist=ZyhrYis509A",
     },
     // {
@@ -125,15 +125,15 @@ var videoLinks = {
   ],
   K: [
     {
-      song: "Kung Fu Fighting",
+      song: "Kung Fu Fighting - Carl Douglas",
       link: "https://www.youtube.com/embed/bmfudW7rbG0?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=14&rel=0&playlist=bmfudW7rbG0",
     },
   ],
   L: [
-    {
-      song: "Levan Polkka - Hatsune Miku",
-      link: "https://www.youtube.com/embed/tlXSMrGWK9M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=12&rel=0&playlist=tlXSMrGWK9M",
-    },
+    // {
+    //   song: "Levan Polkka - Hatsune Miku",
+    //   link: "https://www.youtube.com/embed/tlXSMrGWK9M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=12&rel=0&playlist=tlXSMrGWK9M",
+    // },
     {
       song: "Lion Sleeps Tonight - Pat & Stanley",
       link: "https://www.youtube.com/embed/399syDv0bBM?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=4&rel=0&playlist=399syDv0bBM",
@@ -146,7 +146,7 @@ var videoLinks = {
     },
     {
       song: "Move B*tch - Disturbing Tha Peace and Ludacris",
-      link: "https://www.youtube.com/embed/WY-3J9f60pw?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=9&rel=0&playlist=WY-3J9f60pw",
+      link: "https://www.youtube.com/embed/WY-3J9f60pw?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=10&rel=0&playlist=WY-3J9f60pw",
     },
   ],
   N: [
@@ -168,7 +168,7 @@ var videoLinks = {
   P: [
     {
       song: "PPAP - PIKOTARO",
-      link: "https://www.youtube.com/embed/5ZYn25NNtMs?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=6&rel=0&playlist=5ZYn25NNtMs",
+      link: "https://www.youtube.com/embed/NfuiB52K7X8?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=5&rel=0&playlist=NfuiB52K7X8",
     },
     {
       song: "Pokemon Theme Song",
@@ -245,7 +245,7 @@ var videoLinks = {
       link: "https://www.youtube.com/embed/LUYbu5DJA1U?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=65&rel=0&playlist=LUYbu5DJA1U",
     },
     {
-      song: "YOU SO FN PRECIOUS WHEN YOU SMILE (Mine) - Bazzi",
+      song: "YOU SO FN PRECIOUS (Mine) - Bazzi",
       link: "https://www.youtube.com/embed/ee21xAWnBMg?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=ee21xAWnBMg",
     },
     // {
