@@ -32,6 +32,10 @@ var videoLinks = {
       song: "Curb Your Ethusiasm Theme (Frolic) - Luciano Michelini",
       link: "https://www.youtube.com/embed/q9RAZxNdCk8?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=q9RAZxNdCk8",
     },
+    {
+      song: "Careless Whisper - George Michael",
+      link: "https://www.youtube.com/embed/izGwDsrQ1eQ?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=izGwDsrQ1eQ",
+    },
   ],
   D: [
     {
@@ -39,13 +43,17 @@ var videoLinks = {
       link: "https://www.youtube.com/embed/YnopHCL1Jk8?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=52&rel=0&playlist=YnopHCL1Jk8",
     },
     {
+      song: "Dame Tu Cosita - El Chombo",
+      link: "https://www.youtube.com/embed/FzG4uDgje3M?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=3&rel=0&playlist=FzG4uDgje3M",
+    },
+    {
       song: "Dramatic Chipmunk",
       link: "https://www.youtube.com/embed/y8Kyi0WNg40?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=y8Kyi0WNg40",
     },
-    {
-      song: "DAMN DANIEL",
-      link: "https://www.youtube.com/embed/X3oDvz4YauE?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=X3oDvz4YauE",
-    },
+    // {
+    //   song: "DAMN DANIEL",
+    //   link: "https://www.youtube.com/embed/X3oDvz4YauE?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=X3oDvz4YauE",
+    // },
   ],
   E: [
     {
@@ -99,6 +107,10 @@ var videoLinks = {
     {
       song: "I am very glad, because I'm finally returning back home (Trololo) - Eduard Khil",
       link: "https://www.youtube.com/embed/4TnAKurylA8?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=25&rel=0&playlist=4TnAKurylA8",
+    },
+    {
+      song: "I Want It That Way - Brookyln 99 Ver",
+      link: "https://www.youtube.com/embed/HlBYdiXdUa8?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=20&rel=0&playlist=HlBYdiXdUa8",
     },
   ],
   J: [
