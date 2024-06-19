@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Vollkorn+SC:wght@400;600;700;900&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/dfeb72654e.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"></script>
+    <title>MEMEFLIX</title>
+</head>
+
+<body>
+
+    <h1>MEME<span class="red">FLIX</span></h1>
+
+    <div class="container">
+        <div class="bkg-text-container">
+            <p class="bkg-text">MEME<span class="red-outline">FLIX</span></p>
+            <p class="bkg-text">MEME<span class="red-outline">FLIX</span></p>
+            <p class="bkg-text">MEME<span class="red-outline">FLIX</span></p>
+        </div>
+        <div class="cpu-container">
+            <img id="cpu" src="./img/cpu.png" alt="">
+
+            <div class="video-screen">
+                <div class="transparent">
+                    <img src="./img/youtube-layout.jpg" alt="windowxp" class="windowxp">
+                </div>
+                <div class="iframe-container">
+                    <iframe class="video" id="youtube-video"
+                        src="https://www.youtube.com/embed/W9nZ6u15yis?si=aRGIzuDJ42X7JOjY" frameborder="0" width="230"
+                        height="400">
+                        <!-- original width is 330 -->
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="keyboard">
+        <div class="first-row">
+            <button class="alphabet" data-id="Q"><span class="front">Q</span></button>
+            <button class="alphabet" data-id="W"><span class="front">W</span></button>
+            <button class="alphabet" data-id="E"><span class="front">E</span></button>
+            <button class="alphabet" data-id="R"><span class="front">R</span></button>
+            <button class="alphabet" data-id="T"><span class="front">T</span></button>
+            <button class="alphabet" data-id="Y"><span class="front">Y</span></button>
+            <button class="alphabet" data-id="U"><span class="front">U</span></button>
+            <button class="alphabet" data-id="I"><span class="front">I</span></button>
+            <button class="alphabet" data-id="O"><span class="front">O</span></button>
+            <button class="alphabet" data-id="P"><span class="front">P</span></button>
+        </div>
+        <div class="second-row">
+            <button class="alphabet" data-id="A"><span class="front">A</span></button>
+            <button class="alphabet" data-id="S"><span class="front">S</span></button>
+            <button class="alphabet" data-id="D"><span class="front">D</span></button>
+            <button class="alphabet" data-id="F"><span class="front">F</span></button>
+            <button class="alphabet" data-id="G"><span class="front">G</span></button>
+            <button class="alphabet" data-id="H"><span class="front">H</span></button>
+            <button class="alphabet" data-id="J"><span class="front">J</span></button>
+            <button class="alphabet" data-id="K"><span class="front">K</span></button>
+            <button class="alphabet" data-id="L"><span class="front">L</span></button>
+        </div>
+        <div class="third-row">
+            <button class="alphabet" data-id="Z"><span class="front">Z</span></button>
+            <button class="alphabet" data-id="X"><span class="front">X</span></button>
+            <button class="alphabet" data-id="C"><span class="front">C</span></button>
+            <button class="alphabet" data-id="V"><span class="front">V</span></button>
+            <button class="alphabet" data-id="B"><span class="front">B</span></button>
+            <button class="alphabet" data-id="N"><span class="front">N</span></button>
+            <button class="alphabet" data-id="M"><span class="front">M</span></button>
+        </div>
+    </div>
+
+    <div class="song-container">
+        <p class="song">Press On Any Key</p>
+        <div class="controls">
+            <button class="video-controls"><img src="./img/icon-mute.png" class="icon" alt="mute" id="mute"></button>
+            <!-- <button class="video-controls"><img src="./img/icon-play.png" class="icon" alt="play"></button> -->
+            <button class="video-controls"><img src="./img/icon-pause.png" class="icon" alt="pause" id="pause"></button>
+            <button class="video-controls"><img src="./img/icon-shuffle.png" class="icon" alt="shuffle"
+                    id="shuffle"></button>
+        </div>
+    </div>
+
+    <script src="./js/app.js"></script>
+</body>
+
+</html>
