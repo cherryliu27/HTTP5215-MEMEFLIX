@@ -244,10 +244,10 @@ var videoLinks = {
       song: "Yakety Sax - Boots Randolph",
       link: "https://www.youtube.com/embed/LUYbu5DJA1U?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=65&rel=0&playlist=LUYbu5DJA1U",
     },
-    {
-      song: "YOU SO FN PRECIOUS (Mine) - Bazzi",
-      link: "https://www.youtube.com/embed/ee21xAWnBMg?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=ee21xAWnBMg",
-    },
+    // {
+    //   song: "YOU SO FN PRECIOUS (Mine) - Bazzi",
+    //   link: "https://www.youtube.com/embed/ee21xAWnBMg?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=0&rel=0&playlist=ee21xAWnBMg",
+    // },
     // {
     //   song: "Yee",
     //   link: "https://www.youtube.com/embed/q6EoRBvdVPQ?enablejsapi=1&autoplay=1&rel=0&mute=1&controls=0&loop=1&start=3&rel=0&playlist=q6EoRBvdVPQ",
